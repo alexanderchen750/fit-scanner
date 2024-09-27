@@ -1,6 +1,6 @@
 # Project Overview:
 
-Clothing Scanner is meant to be a backend function that scans an image of clothing and returns shopping links to similar items. It users the Google Lens API from SerpAPI. It's meant to be a funciton, but it can also be demoed using streamlit
+Clothing Scanner scans an image of clothing and returns shopping links to similar items. It uses the Google Lens API from SerpAPI to support the scan. It's meant to be a backend funciton, but it can also be demoed using streamlit.
 
 # Setup:
 
